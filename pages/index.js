@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
 
-      <h1>Let's build Whatsapp</h1>
+      <h1 className="items-center">Let's build Whatsapp</h1>
       
     </div>
   )
